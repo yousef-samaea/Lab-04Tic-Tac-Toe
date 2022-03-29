@@ -1,0 +1,16 @@
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\Lab04_TicTacToe.exe
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\Lab04_TicTacToe.deps.json
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\Lab04_TicTacToe.runtimeconfig.json
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\Lab04_TicTacToe.runtimeconfig.dev.json
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\Lab04_TicTacToe.dll
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\ref\Lab04_TicTacToe.dll
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\bin\Debug\net5.0\Lab04_TicTacToe.pdb
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.AssemblyInfo.cs
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.dll
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\ref\Lab04_TicTacToe.dll
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.pdb
+C:\Users\youse\Desktop\programs\Lab-04Tic-Tac-Toe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\net5.0\Lab04_TicTacToe.genruntimeconfig.cache
