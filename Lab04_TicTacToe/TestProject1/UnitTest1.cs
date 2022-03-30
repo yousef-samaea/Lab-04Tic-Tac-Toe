@@ -20,17 +20,62 @@ namespace TestProject1
             IsTurn = false
         };
 
-        [Fact]
-        public void TestWinnerBoard()
-        {
-            Game testGame = new Game(new Player(), new Player());
-            for (int i = 0; i < 3; i++)
-                testGame.Board.GameBoard[0, i] = "X";
-            Assert.True(testGame.CheckForWinner(testGame.Board));
+        //test the winner
 
-            for (int i = 0; i < 3; i++)
-                testGame.Board.GameBoard[i, i] = "O";
-            Assert.True(testGame.CheckForWinner(testGame.Board));
+        [Fact]
+        public void TestTheWinner()
+        {
+            Game game = new Game(playerOne, playerTwo);
+
+            game.Board.GameBoard = new string[,]
+            {
+                {"1", "2", "O"},
+                {"4", "O", "6"},
+                {"X", "X", "X"},
+            };
+
+            Assert.True(game.CheckForWinner(game.Board));
         }
+
+        //test player turn "Switch "
+
+        [Fact]
+        public void Switch()
+        {
+            Game testGame = new Game(playerOne, playerTwo);
+            testGame.PlayerTwo.IsTurn = false;
+            testGame.SwitchPlayer();
+
+            Assert.Equal(testGame.PlayerTwo, testGame.NextPlayer());
+        }
+
+        //Test the TestForPosition
+
+        [Fact]
+        public void TestForPosition()
+        {
+            Position Position = new Position(2, 2);
+            Assert.Equal(Position.Row, Player.PositionForNumber(9).Row);
+        }
+
+         // my test:
+
+        [Fact]
+        public void Test()
+        {
+            string[,] Winner = new string[,]
+        {
+                {"x", "o", "x"},
+                {"o", "x", "o"},
+                {"o", "x", "o"},
+        };
+            Game game = new Game(playerOne, playerTwo);
+            Assert.False(game.CheckForWinner(game.Board));
+        }
+
+
+
+
+
     }
 }
